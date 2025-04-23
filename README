@@ -2,4 +2,5 @@ The model of EPlus-LLMv2 has been sharded for easy up and download.
 Please use the "cat adapter_model_part_* > adapter_model.safetensors" to concat model after download.
 
 
-__‼️ This is an old version model. The introduction and new version model please refer to: https://github.com/EPlus-LLM/EPlus-LLM__
+**‼️ This is an outdated version of the model. For the latest version, please visit:** [https://github.com/EPlus-LLM/EPlus-LLM](https://github.com/EPlus-LLM/EPlus-LLM)
+
