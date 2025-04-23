@@ -3,4 +3,4 @@ Please use the "cat adapter_model_part_* > adapter_model.safetensors" to concat 
 
 
 ‼️ This is an outdated folder of the model. For the latest version and introduction, please visit: https://github.com/EPlus-LLM/EPlus-LLM
-
+‼️ HuggingFace model available: https://huggingface.co/EPlus-LLM/EPlus-LLMv2
